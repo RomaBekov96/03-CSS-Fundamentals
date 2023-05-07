@@ -103,6 +103,7 @@ li:last-child {
 a:link {
   color: #1098ad;
   text-decoration: none;
+  font-size: 10px;
 }
 a:visited {
   color: #6026ac;
